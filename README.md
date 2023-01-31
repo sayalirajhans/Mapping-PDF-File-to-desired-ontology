@@ -9,6 +9,7 @@ The effectiveness of the proposed method is evaluated by testing it on a dataset
 Our results show that our approach is able to accurately map PDF files to the desired ontology with high precision and recall. 
 The proposed method can be used in various applications such as data management, information retrieval and knowledge representation. 
 
+The file sarefner.rdf is the original ontology file downloaded from 
 Procedure to follow for running the code: 
   Start with 1- PDF file.ipynb
 Then 2- Ontology file.ipynb
