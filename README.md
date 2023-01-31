@@ -10,4 +10,6 @@ Our results show that our approach is able to accurately map PDF files to the de
 The proposed method can be used in various applications such as data management, information retrieval and knowledge representation. 
 
 Procedure to follow for running the code:
-Start with 
+Start with 1- PDF file.ipynb
+Then 2- Ontology file.ipynb
+lastly, 3- Mapping PDF file to ontology classes
